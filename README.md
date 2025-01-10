@@ -9,7 +9,6 @@
 ╚══╝╚═══╝╚╝─╚╝╚╝─╚╝╚═══╝     ╚═══╝╚═══╝╚═══╝╚═══╝
 
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2664231" style='border:none;'></iframe>
-
+[tryhackme stats](https://raw.githubusercontent.com/<lsxxc>/<SET_USERNAME_HERE>/master/assets/thm_propic.png)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lsxxc&theme=dark&show_icons=true)
